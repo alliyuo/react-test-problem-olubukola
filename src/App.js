@@ -15,6 +15,7 @@ export default class App extends React.Component {
       <div>
         <p>Greetings!</p>
         <p>Button goes here</p>
+        <button class = "button1"> Click Me!</button>
       </div>
     );
   }
